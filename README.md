@@ -7,7 +7,6 @@
 
 Here are some ideas to get you started:
 -->
-<br>
 <div align='center'>
   <H3>🛠Tech Stack🛠</H3>
   <H5>Techs that I've used at least once</H5>
