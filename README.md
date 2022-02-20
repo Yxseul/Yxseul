@@ -1,6 +1,5 @@
 <br>
 <H1 align='center'> Hi👋, I'm Yeseul Jung </H1>
-<H4 align='center'> A passionate Back-end Developer </H3>
 
 <!--
 **Yxseul/Yxseul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +19,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Flask-DC461D?style=flat-square&logo=Flask&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Pycharm-3766AB?style=flat-square&logo=PyCharm&logoColor=white"/></a></p>
-  <br>
   <H3>⚡Me⚡</H3> 
   <ul>
     <p> 🔭 Beijing University </p>
