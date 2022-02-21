@@ -28,9 +28,9 @@ Here are some ideas to get you started:
     <a href='https://drive.google.com/file/d/1LUva4IdP6pW09iuzV2ZqAba87Spc1KH1/view?usp=sharing'> MY RESUME</a> </p>
     <p> 📫 How to reach me: shley0527@gmail.com </p>
   </ul><br>
-  <div height="180em" display='inline-block'>
-    <img src="https://github-readme-stats.vercel.app/api?username=Yxseul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yxseul&layout=compact" />
+  <div display='inline-block'>
+    <img width="35%" src="https://github-readme-stats.vercel.app/api?username=Yxseul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yxseul&layout=compact" />
   </div>
 </div>
 <br><br><br><br>
