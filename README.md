@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <p> 🌱 I’m currently learning django, mariaDB, docker </p>
     <p> 👯 I’m looking to collaborate on web-application project </p>
     <p> 🤔 I'm currently open for : An Intern or a new job opportunity, this is 
-    <a href='https://drive.google.com/file/d/1LUva4IdP6pW09iuzV2ZqAba87Spc1KH1/view?usp=sharing'> MY RESUME</a> </p>
+    <a href='https://drive.google.com/file/d/1vYEn3s-vOIGgpj8eXrkF3vrAW_dKiYBl/view?usp=sharing'> MY RESUME</a> </p>
     <p> 📫 How to reach me: shley0527@gmail.com </p>
   </ul><br>
   <div display='inline-block'>
